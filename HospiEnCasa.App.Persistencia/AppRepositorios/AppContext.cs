@@ -18,7 +18,7 @@ namespace HospiEnCasa.App.Persistencia
         if (!optionsBuilder.IsConfigured)
         {
             optionsBuilder
-                .UseSqlServer("Data Source = (localdb)\\MSSQLLocalDB; Second Catalog = HospiEnCasaData1");
+                .UseSqlServer("Data Source = (localdb)\\MSSQLLocalDB; Initial Catalog = HospiEnCasaData1");
         }
     }
     }

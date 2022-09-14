@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\Yumai\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\Yumai\\.nuget\\packages"
+    ]
+  }
+}
